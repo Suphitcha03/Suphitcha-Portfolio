@@ -34,7 +34,7 @@ I'm passionate about turning data into meaningful insights that drive efficiency
 You can view or download my CV below 👇  
 📄 [Download My Resume English (PDF)](./RESUME-Suphitcha_English.pdf)
 
-📄 [Download My Resume Thai (PDF)](./RESUME-Suphitcha_Thai(1).pdf).
+📄 [Download My Resume Thai (PDF)](./RESUME-Suphitcha_Thai%20(1).pdf).
 
 ---
 
